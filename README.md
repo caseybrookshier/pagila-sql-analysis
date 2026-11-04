@@ -112,7 +112,7 @@ No external database setup required.
 ## 🚀 How to Run (Mac - must have sqlite3 installed)
 
 ```bash
-git clone https://github.com/CrassSax7/pagila-sql-analysis.git
+git clone https://github.com/caseybrookshier/pagila-sql-analysis.git
 cd pagila-sql-analysis
 
 python3 -m venv venv
@@ -132,7 +132,7 @@ sqlite3 pagila.db < pagila_analysis_sqlite.sql
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/CrassSax7/pagila-sql-analysis.git
+git clone https://github.com/caseybrookshier/pagila-sql-analysis.git
 cd pagila-sql-analysis
 
 # 2. Create virtual environment
